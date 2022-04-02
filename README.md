@@ -1,5 +1,5 @@
-# Webpack5
+# Website published
 
-[Информация о релизе Webpack 5](https://webpack.js.org/blog/2020-10-10-webpack-5-release/)
+[Информация о релизе Webpack 5](https://tpecherkina.github.io/)
 
-[Migration Guide](https://webpack.js.org/migrate/5/)
+AppVeyor говорит что Project Quota exceeded
