@@ -1,10 +1,4 @@
-// TODO: write code here
-
-// comment this to pass build
-//const unusedVariable = 'variable';
-
-// for demonstration purpose only
+const unusedVariable = 'variable';
 export default function demo(value) {
   return value;
 }
-
