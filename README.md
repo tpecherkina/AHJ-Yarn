@@ -2,4 +2,4 @@
 
 [GH Pages](https://tpecherkina.github.io/)
 
-AppVeyor говорит что Project Quota exceeded
+[![Build status](https://ci.appveyor.com/api/projects/status/bhgffle5281ts2qd?svg=true)](https://ci.appveyor.com/project/tpecherkina/tpecherkina-github-io)
